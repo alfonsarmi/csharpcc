@@ -9,8 +9,9 @@ namespace InherentComplexityScore
 {
     public class CyclomaticComplexitySoftwareScience
     {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args)/*
+		holi*/
+        { 
         }
 
         /*
