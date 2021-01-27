@@ -14,6 +14,7 @@ namespace InherentComplexityScore
         }
 
         /*
+		 test
          * Cyclomatic Complexity = 1
          * 
          * Operands: +9
