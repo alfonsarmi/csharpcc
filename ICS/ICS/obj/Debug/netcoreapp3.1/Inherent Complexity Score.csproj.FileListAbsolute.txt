@@ -1,0 +1,26 @@
+C:\testing\Inherent Complexity Score\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.csprojAssemblyReference.cache
+C:\testing\Inherent Complexity Score\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.AssemblyInfoInputs.cache
+C:\testing\Inherent Complexity Score\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.AssemblyInfo.cs
+C:\testing\Inherent Complexity Score\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.csproj.CoreCompileInputs.cache
+C:\testing\Inherent Complexity Score\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.exe
+C:\testing\Inherent Complexity Score\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.deps.json
+C:\testing\Inherent Complexity Score\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.runtimeconfig.json
+C:\testing\Inherent Complexity Score\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.runtimeconfig.dev.json
+C:\testing\Inherent Complexity Score\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.dll
+C:\testing\Inherent Complexity Score\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.pdb
+C:\testing\Inherent Complexity Score\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.dll
+C:\testing\Inherent Complexity Score\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.pdb
+C:\testing\Inherent Complexity Score\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.genruntimeconfig.cache
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.exe
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.deps.json
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.runtimeconfig.json
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.runtimeconfig.dev.json
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.dll
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\bin\Debug\netcoreapp3.1\Inherent Complexity Score.pdb
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.csprojAssemblyReference.cache
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.AssemblyInfoInputs.cache
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.AssemblyInfo.cs
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.csproj.CoreCompileInputs.cache
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.dll
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.pdb
+C:\testing\Inherent Complexity Score - csharp\ICS\ICS\obj\Debug\netcoreapp3.1\Inherent Complexity Score.genruntimeconfig.cache
